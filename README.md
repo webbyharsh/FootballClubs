@@ -22,3 +22,6 @@ The backbone of this app is the backend which is created using node.js as a serv
 4. To get total clubs count in a particular state
 	### API end-point(GET): https://hyclubs.herokuapp.com/api/totalclubs/:statename
 
+
+
+WELL IT DIDNT GO WELL 
